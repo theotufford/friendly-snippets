@@ -230,7 +230,15 @@
             },
             {
                 "language": [
-                    "all"
+                    "html",
+                    "jade",
+                    "pug",
+                    "eruby",
+                    "javascriptreact",
+                    "htmldjango",
+                    "djangohtml",
+                    "astro",
+                    "blade"
                 ],
                 "path": "./snippets/html.json"
             },
