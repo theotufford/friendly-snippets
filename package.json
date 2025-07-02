@@ -230,13 +230,13 @@
             },
             {
                 "language": [
-                    "htm",
                     "html",
                     "jade",
                     "pug",
                     "eruby",
                     "javascriptreact",
                     "htmldjango",
+                    "djangohtml",
                     "astro",
                     "blade"
                 ],
